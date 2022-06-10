@@ -50,3 +50,23 @@ button:hover {
   filter: brightness(1.2);
   cursor: pointer;
 }
+
+#resposta{
+  margin-top: 30px;
+  transition: opacity 1s;
+}
+#resposta div{
+  font-size: 16px;
+  font-weight: normal;
+  opacity: 0.9;
+  margin-bottom: 10px;
+}
+
+.foot{
+  margin-top: 100px;
+}
+a{
+  color: blueviolet;
+  text-decoration: none;
+  font-size: 20px;
+}

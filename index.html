@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script type="text/javascript" src="./app.js" defer></script>
 
     <link rel="stylesheet" href="./style.css" />
     <title>Destenw</title>
@@ -15,10 +16,28 @@
         alt="Imaj yon boul kristal"
       />
       <h1>Vinim diw koman laviw ap ye!.</h1>
-      <p>Map revele'w tout sak gen pou rive nan lavi'w</p>
+      <p>
+        Map revele'w tout sak gen pou rive nan lavi'w. <br />
+        Nb:Gen repons ki ka choke'w mesi🤭
+      </p>
 
-      <input type="text" placeholder="Poze yon kesyon" />
-      <button>An gade ansanm</button>
+      <input id="inputPergunta" type="text" placeholder="Poze yon kesyon" />
+      <button id="buttonPerguntar" onclick="fazerPergunta()">
+        An gade ansanm
+      </button>
+
+      <h3 id="resposta">
+        <div></div>
+      </h3>
     </div>
+
+    <footer>
+      <div class="foot">
+        Created by:
+        <a href="https://www.instagram.com/johnny_frantz1" target="_blank"
+          >Johnny</a
+        >
+      </div>
+    </footer>
   </body>
 </html>
