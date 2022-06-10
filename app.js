@@ -10,7 +10,7 @@ const respostas = [
   'Pa gen dout nan sa',
   'Wi,difinitivman ou preske echwe nan lavi a 😟 ',
   'Siw poko gen Paspò al fèl met la api tann pou wè',
-  'Kontinye tarvay epi priye🙏',
+  'Kontinye travay epi priye🙏',
   'Ou manke la fwa, sa vinn fè m paka reponn ou kesyon sa',
   'Chans ou lou anpil wi ou konn sa?',
   'Poze yon bon kesyon ok 😡',
@@ -22,7 +22,11 @@ const respostas = [
   'Sispann fè krèy epi tout bagay ap mache',
   'Siw kontinye wap rive wi',
   'sa ka fèt wi, men fow travay pou sa💪',
-  'Sispann pawaze devan pòt fo zanmi epi laviw ap chanje'
+  'Sispann pawaze devan pòt fo zanmi epi laviw ap chanje',
+  'Fon ti kanpe sou Porno a epi anpil bagay ap chanje',
+  'Obstak yo kreze deja, rete ou menm ki pou met prencip nan laviw',
+  'lap difisil anpil wi, men lap pi difisil siw kontinye pale moun mal.',
+  'Wap mal pase la wi😭 '
 ]
 
 function fazerPergunta() {
