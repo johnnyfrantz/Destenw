@@ -38,7 +38,8 @@ const respostas = [
   'Poze on lot kesyon😪 ',
   'lèw sispann tann numero transfè',
   'Priye Priye jou delivrans ou preske rive, men aprann on metye 🥱 ',
-  'wi wap gen lajan wap gen bel kay, men fow leve nn domi an wi paske se reve wap reve🥴'
+  'wi wap gen lajan wap gen bel kay, men fow leve nn domi an wi paske se reve wap reve🥴',
+  'Lèw kite fè foulay'
 ]
 
 function fazerPergunta() {
@@ -63,5 +64,5 @@ function fazerPergunta() {
   setTimeout(function () {
     elementoResposta.style.opacity = 0
     buttonPerguntar.removeAttribute('disabled')
-  }, 3000)
+  }, 6000)
 }
