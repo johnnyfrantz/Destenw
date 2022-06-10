@@ -26,7 +26,19 @@ const respostas = [
   'Fon ti kanpe sou Porno a epi anpil bagay ap chanje',
   'Obstak yo kreze deja, rete ou menm ki pou met prencip nan laviw',
   'lap difisil anpil wi, men lap pi difisil siw kontinye pale moun mal.',
-  'Wap mal pase la wi😭 '
+  'Wap mal pase la wi😭 ',
+  'Bondye poko rive nan paj ki gen nonw lan 🤡',
+  'ou gen pou gouye anpil anpil pou sa rive fet wi',
+  'Lèw kite fouye bouche nan zafè moun',
+  'lèw sispann fè pye blanch dèyè zanmi',
+  'Lèw kite pran mennaj moun',
+  'Menm moun fou sezi pou kesyon sa',
+  'kontinye toujou chemin paw la se on diaspora kap trasel pou ou ',
+  'Lèw sispann mache ka ougan wap wè sa fèt byen rapid',
+  'Poze on lot kesyon😪 ',
+  'lèw sispann tann numero transfè',
+  'Priye Priye jou delivrans ou preske rive, men aprann on metye 🥱 ',
+  'wi wap gen lajan wap gen bel kay, men fow leve nn domi an wi paske se reve wap reve🥴'
 ]
 
 function fazerPergunta() {
